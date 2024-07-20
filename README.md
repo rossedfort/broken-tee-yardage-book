@@ -5,18 +5,18 @@
 1. Download and install [Inkscape](https://inkscape.org/release/).
 1. Open `broken-tee-yardage-book.svg` in Inkscape.
 1. Select `File > Export`.
-![image](./assets/export_menu.png)
+<img src="./assets/export_menu.png" alt="export menu" width="200" />
 1. Change the export format to `pdf`.
-![image](./assets/export_format.png)
+<img src="./assets/export_format.png" alt="export format" width="350" />
 1. Select the `Page` tab, and ensure all pages are selected.
-![image](./assets//export_pages.png)
+<img src="./assets//export_pages.png" alt="export pages" width="200" />
 1. Click `Export`
 1. Open the PDF in your PDF viewer of choice.
 1. Print the PDF on US Legal (8.5 x 14 in.) Paper. 
     1. If using MacOS Preview.app, ensure you select the "two-sided" option, and that the print is set up for "Short-Edge binding".
-  ![image](./assets/preview_print_options.png)
+  <img src="./assets/preview_print_options.png" alt="preview print options" width="200" />
     1. If using Chrome, ensure you select "Print on both sides" and "Flip on short edge".
-  ![image](./assets//chrome_print_options.png)
+  <img src="./assets//chrome_print_options.png" alt="chrome print options" width="200" />
 1. Cut each sheet along its vertical center.
 1. Fold each sheet along its horizontal center.
 1. Assemble the individual pages into a booklet, and staple in the center using a long-reach stapler.
